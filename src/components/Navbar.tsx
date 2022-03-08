@@ -1,13 +1,11 @@
 import React, { FC, useState } from "react";
 import {
-  Box,
   Button,
   CloseButton,
   Flex,
   IconButton,
   Switch,
   useColorMode,
-  VStack,
 } from "@chakra-ui/react";
 import { HamburgerIcon } from "@chakra-ui/icons";
 
